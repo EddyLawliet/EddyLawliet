@@ -1,16 +1,12 @@
-## Hi there 👋
+# Eddy Brayan Limachi Mamani
 
-<!--
-**EddyLawliet/EddyLawliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre mí
+Actualmente soy un estudiante en el **Instituto Tecnológico Industrial Brasil-Bolivia**. Me apasiona el desarrollo de software y la resolución de problemas mediante código.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades
+Tengo experiencia en diferentes áreas de la programación, incluyendo:
+- Programación en varios lenguajes (JavaScript, PHP, C#.)
+- Desarrollo web (HTML, CSS, JavaScript, Bootstrap)
+- Bases de datos (SQL Server, MySQL, MongoDB)
+- Programación orientada a objetos (POO)
+- Control de versiones con Git y GitHub
